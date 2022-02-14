@@ -33,7 +33,7 @@ The code used in Part I follows the scikit-learn package guidance [here](https:/
 
 ## Part II
 
-### Setup
+### Setup and Results
 The project setup (part II) is as follows:
 1. In addition the packages used in part I, in part II PyTorch package is used for implementing the deep neural network. The code in part II follows the PyTorch package guidance [here](https://github.com/Varal7/ml-tutorial/blob/master/Part2.ipynb) and [here](https://pytorch.org/docs/stable/index.html).
 2. The training, validation and test data are the same as those used in part I.
