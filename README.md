@@ -1,6 +1,8 @@
 # Digit_recognition
 
-This project used MNIST (Mixed National Institute of Standards and Technology) database as the training, validation, and test data. The MNIST database contains binary images of handwritten digits commonly used to train image processing systems. The digits were collected from among Census Bureau employees and high school students. The database contains 60,000 training digits and 10,000 testing digits, all of which have been size-normalized and centered in a fixed-size image of 28 × 28 pixels. 
+This project used MNIST (Mixed National Institute of Standards and Technology) database as the training, validation, and test data. The MNIST database contains binary images of handwritten digits commonly used to train image processing systems. The digits were collected from among Census Bureau employees and high school students. The database contains 60,000 training digits and 10,000 testing digits, all of which have been size-normalized and centered in a fixed-size image of 28 × 28 pixels.
+
+![image](https://user-images.githubusercontent.com/87055709/153833076-fe040961-6661-4ff2-b4ca-994452412981.png)
 
 ## Part I
 
@@ -82,6 +84,7 @@ The project setup (part II) is as follows:
     23. A dropout layer with probability 0.25
     24. A fully connected layer with 10 neurons (final output layer).
 8. The model also uses Stochastic Gradient Descent (SGD) optimizer. The test accuracy is 98.64%.
-    
 
-### Results and Conclusions
+Examples of two-digit MNIST:
+![image](https://user-images.githubusercontent.com/87055709/153833372-98d3526f-1cc5-4e30-b3a8-108571b9971d.png)
+
